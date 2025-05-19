@@ -40,7 +40,7 @@ const ProjectsSection = () => {
       category: "AI-integrated" as const,
     },
     {
-      title: "AI Agent",
+      title: "Cricket Fantasy App",
       description:
         "This project will involve building an intelligent AI assistant capable of handling user queries using NLP. It will integrate with Bubble.io, Make.com, and possibly messaging platforms to demonstrate smart automation.",
       tags: ["AI", "NLP", "Make.com", "Bubble"],
